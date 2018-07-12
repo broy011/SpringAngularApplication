@@ -1,0 +1,38 @@
+<div class="blank">
+  <div class="login_wrapper" style="min-height: 100vh;">
+      <div class="login_container">
+          <div class="branding">
+              <!-- <img src="./assets/images/opentext-logo-white.svg" class="opentext_logo" alt="Opentext logo white" style="width: 370px; height: 3.5em;"> -->
+          </div>
+          <div class="login_form">
+              <!-- <div class="login_messages">{{ 'login_text' | translate }}</div> -->
+              <!-- <br /> -->
+              <form  ngNativeValidate>
+                  <br />
+                  <div *ngIf="errorMessage">
+                      <div class="login_messages">
+                         Login Failed
+                      </div>
+                  </div>
+                  <div class="form-group">
+                      <input  name="email" type="text" required class="form-control input-lg" id="email" placeholder="User Name"
+                          maxlength="50" autofocus />
+                      <span id="otds_username_clearer" class="clearer clear-icon form-control-feedback"></span>
+                  </div>
+                  <div class="form-group">
+                      <input  name="password" type="password" required class="form-control input-lg" id="password"
+                          placeholder="Password" autocomplete="off" />
+                      <span id="otds_password_clearer" class="clearer clear-icon form-control-feedback"></span>
+                  </div>
+                  <div class="form-group">
+                      <button class="login_button" type="submit">Sign In</button>
+                      <button class="login_button" type="submit">Sign Up</button>
+                      <!-- <a [routerLink]="['/']" class="btn btn-success">Cancel</a> -->
+                  </div>
+              </form>
+          </div>
+      </div>
+      <div style="padding-top:100px">
+      </div>
+  </div>
+</div>

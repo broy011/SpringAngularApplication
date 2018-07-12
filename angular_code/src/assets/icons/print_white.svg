@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="4 -4 24 24" style="enable-background:new 4 -4 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<g id="edit_icon">
+	<g id="edit_icon_2">
+	</g>
+	<g id="trash_icon">
+		<g id="trash">
+		</g>
+	</g>
+	<g id="more_icon">
+	</g>
+	<path class="st0" d="M20.5,11h-9c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5h9c0.3,0,0.5,0.2,0.5,0.5S20.8,11,20.5,11z"/>
+	<path class="st0" d="M20.5,14h-9c-0.3,0-0.5-0.2-0.5-0.5s0.2-0.5,0.5-0.5h9c0.3,0,0.5,0.2,0.5,0.5S20.8,14,20.5,14z"/>
+</g>
+<path class="st0" d="M26,1h-2v-3c0-1.1-0.9-2-2-2H10C8.9-4,8-3.1,8-2v3H6C4.9,1,4,1.9,4,3v8c0,1.1,0.9,2,2,2h2v3c0,1.1,0.9,2,2,2h12
+	c1.1,0,2-0.9,2-2v-3h2c1.1,0,2-0.9,2-2V3C28,1.9,27.1,1,26,1z M23,13v3c0,0.6-0.4,1-1,1H10c-0.6,0-1-0.4-1-1v-3V8h14V13z M23,4h-3V3
+	h3V4z M23,1H9v-3c0-0.6,0.4-1,1-1h12c0.6,0,1,0.4,1,1V1z"/>
+</svg>

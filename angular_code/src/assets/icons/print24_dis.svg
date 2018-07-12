@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="metadata">
+</g>
+<g id="like_icon">
+</g>
+<g id="fave_icon">
+</g>
+<g id="fave_icon_-_selected">
+</g>
+<g id="comment_icon_-_selected">
+</g>
+<g id="Comment_icon">
+</g>
+<g id="fave_icon_-_selected_1_">
+</g>
+<g id="like_icon_-_selected">
+</g>
+<path fill="#FFFFFF" d="M19,6H5V3c0-0.552,0.448-1,1-1h12c0.552,0,1,0.448,1,1V6z"/>
+<path fill="#A9A9A9" d="M22,6h-2V3c0-1.103-0.897-2-2-2H6C4.897,1,4,1.897,4,3v3H2C0.895,6,0,6.895,0,8v8c0,1.105,0.895,2,2,2h2v3
+	c0,1.103,0.897,2,2,2h12c1.103,0,2-0.897,2-2v-3h2c1.105,0,2-0.895,2-2V8C24,6.895,23.105,6,22,6z M5,3c0-0.552,0.448-1,1-1h12
+	c0.552,0,1,0.448,1,1v3H5V3z M19,21c0,0.552-0.448,1-1,1H6c-0.552,0-1-0.448-1-1v-3v-5h14v5V21z"/>
+<rect x="16" y="8" fill="#FFFFFF" width="3" height="1"/>
+<g id="copy_x2F_move_icon">
+</g>
+<g id="download_icon_2">
+</g>
+<g id="share_icon_2">
+</g>
+<g id="reserve_icon">
+</g>
+<g id="edit_icon">
+	<g id="edit_icon_2">
+	</g>
+	<g id="trash_icon">
+		<g id="trash">
+		</g>
+	</g>
+	<g id="more_icon">
+	</g>
+	<path fill="#A9A9A9" d="M16.5,16h-9C7.224,16,7,15.776,7,15.5S7.224,15,7.5,15h9c0.276,0,0.5,0.224,0.5,0.5S16.776,16,16.5,16z"/>
+	<path fill="#A9A9A9" d="M16.5,19h-9C7.224,19,7,18.776,7,18.5S7.224,18,7.5,18h9c0.276,0,0.5,0.224,0.5,0.5S16.776,19,16.5,19z"/>
+</g>
+<g id="metadata_2">
+</g>
+</svg>

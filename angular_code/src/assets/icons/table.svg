@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<rect x="0" y="30" fill="#00A389" width="4" height="18"/>
+			<rect x="0" y="9" fill="#00A389" width="4" height="18"/>
+		</g>
+		<g>
+			<g>
+				<rect x="9" y="0" fill="#00A389" width="18" height="4"/>
+				<rect x="30" y="0" fill="#00A389" width="18" height="4"/>
+			</g>
+		</g>
+		<g>
+			<path fill="#0072AA" d="M9,27h18V9H9V27z M11,11h14v14H11V11z"/>
+			<path fill="#0072AA" d="M30,9v18h18l0-18H30z M46,25H32V11h14V25z"/>
+			<path fill="#0072AA" d="M9,48h18V30H9V48z M11,32h14v14H11V32z"/>
+			<path fill="#0072AA" d="M30,48h18V30H30V48z M32,32h14v14H32V32z"/>
+		</g>
+	</g>
+	<rect x="11" y="11" fill="#FFFFFF" width="14" height="14"/>
+	<rect x="32" y="11" fill="#FFFFFF" width="14" height="14"/>
+	<rect x="32" y="32" fill="#FFFFFF" width="14" height="14"/>
+	<rect x="11" y="32" fill="#FFFFFF" width="14" height="14"/>
+</g>
+</svg>

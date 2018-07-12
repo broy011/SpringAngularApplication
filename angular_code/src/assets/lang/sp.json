@@ -1,0 +1,23 @@
+{
+    "login_text":"Dummy Text Sign in to continue",
+    "login_username":"Dummy Username",
+    "login_password":" Dummy Password",
+    "login_button":"Dummy Sign in",
+
+    "header_myTask":"Dummy My Tasks",
+    "header_show_breadcrum":"Show breadcrumbs",
+
+    "user_details_text":"User Details",
+    "first_name_text":"First Name",
+    "last_name_text":"Last Name",
+    "email_text":"Email Address",
+    "contact_text":"Contact#",
+    "assigned_role_text":"Assigned Skynet Role",
+    "active_text":"Is Active?",
+    "list_all_skynet_team":"List Of All Skynet Teams",
+    "assigned_team":"Assigned Team(s)",
+    "submit_text":"Submit",
+    "cancel_text":"Cancel",
+    "add_to_text":"Add To",
+    "remove_to_text":"Remove From"
+}

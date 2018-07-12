@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<g>
+		<polygon fill="#FFFFFF" points="46,44 0,44 0,6 38.225,6 46,16.333 		"/>
+		<path fill="#666666" d="M48,44H0V4h38.715L48,15.991V44z M2,42h44V16.675L37.734,6H2V42z"/>
+	</g>
+	<g>
+		<g>
+			<rect x="26" y="16" fill="#004A70" width="16" height="2"/>
+			<rect x="26" y="24" fill="#004A70" width="16" height="2"/>
+			<rect x="26" y="32" fill="#004A70" width="16" height="2"/>
+		</g>
+		<g>
+			<path fill="#0072AA" d="M22,14v4h-6v16h-4V18H6v-4H22z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<g>
+				<path fill="#0085B6" d="M36.25,46c-5.514,0-10-4.486-10-10.001c0-5.514,4.486-9.999,10-9.999s10,4.485,10,9.999
+					C46.25,41.514,41.764,46,36.25,46z"/>
+				<path fill="#FFFFFF" d="M36.25,27c4.963,0,9,4.037,9,8.999c0,4.963-4.037,9.001-9,9.001s-9-4.038-9-9.001
+					C27.25,31.037,31.287,27,36.25,27 M36.25,25c-6.074,0-11,4.925-11,10.999c0,6.076,4.926,11.001,11,11.001
+					c6.078,0,11-4.924,11-11.001C47.25,29.925,42.328,25,36.25,25L36.25,25z"/>
+			</g>
+		</g>
+	</g>
+	<polygon fill="#FFFFFF" points="33,32 33,42.062 36.542,37.058 40,42.062 40,32 	"/>
+</g>
+</svg>

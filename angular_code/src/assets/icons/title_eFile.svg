@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#2F4553;}
+	.st2{fill:#637884;}
+</style>
+<g id="Layer_3">
+</g>
+<g id="Layer_2">
+	<path class="st0" d="M16,0c8.446,0,16,6.773,16,16c0,8.837-7.163,16-16,16S0,24.837,0,16S7.163,0,16,0z"/>
+	<path class="st1" d="M15.939,1c7.86,0,14.939,6.298,14.939,14.939c0,8.251-6.688,14.939-14.939,14.939S1,24.19,1,15.939
+		S7.688,1,15.939,1z"/>
+	<path class="st0" d="M7,24V9.4C7,8.628,7.609,8,8.357,8h5.359c0.317,0,0.635,0.116,0.895,0.328l2.489,2.253
+		C17.278,10.725,17.641,11,18,11h6.643C25.391,11,26,11.624,26,12.391V24H7z"/>
+	<path class="st2" d="M17,13h-4c-0.55,0-1,0.45-1,1v7c0,0.55,0.45,1,1,1h5c0.55,0,1-0.45,1-1v-6L17,13z"/>
+	<polygon class="st1" points="17,13 17,15 19,15 	"/>
+</g>
+</svg>

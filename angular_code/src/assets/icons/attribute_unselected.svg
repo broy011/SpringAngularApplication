@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<rect x="1.5" y="1.5" fill="#FFFFFF" width="45" height="45"/>
+	<g>
+		<path fill="#333333" d="M0,0v48h48V0H0z M46,46H2V2h44V46z"/>
+		<g>
+			<g>
+				<rect x="22.4" y="8" fill="#333333" width="3.199" height="32"/>
+			</g>
+			<g>
+				<rect x="8" y="22.4" fill="#333333" width="32" height="3.199"/>
+			</g>
+			<g>
+				<line fill="#333333" x1="34.861" y1="13.139" x2="13.139" y2="34.86"/>
+				
+					<rect x="22.399" y="8.64" transform="matrix(0.7071 0.7071 -0.7071 0.7071 23.9997 -9.9413)" fill="#333333" width="3.201" height="30.72"/>
+			</g>
+			<g>
+				<line fill="#333333" x1="34.861" y1="34.86" x2="13.139" y2="13.139"/>
+				
+					<rect x="8.64" y="22.399" transform="matrix(0.7071 0.7071 -0.7071 0.7071 23.9989 -9.9413)" fill="#333333" width="30.72" height="3.201"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
